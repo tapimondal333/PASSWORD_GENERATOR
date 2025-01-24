@@ -1,0 +1,21 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+
+body{
+  background-color: darkslateblue;
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.passwordBox{
+  height: 400px;
+  width: 350px;
+  background-color:indigo;
+  padding: 15px;
+  
+  
+}
